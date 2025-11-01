@@ -1,0 +1,12 @@
+node_modules/
+artifacts/
+cache/
+coverage/
+dist/
+types/
+deployments/
+fhevmTemp/
+.next/
+frontend/node_modules/
+frontend/.next/
+
