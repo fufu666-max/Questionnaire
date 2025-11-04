@@ -2,6 +2,8 @@
 
 A privacy-preserving mental health questionnaire system built with FHEVM (Fully Homomorphic Encryption Virtual Machine) by Zama. This application allows users to submit mental health surveys with encrypted data that only they can decrypt.
 
+> **Note**: This project demonstrates the power of fully homomorphic encryption for sensitive healthcare data.
+
 ## 🎥 Demo Video & Deployment
 
 - **📹 Demo Video**: [Download health.mp4](./health.mp4) - Watch the full demonstration of the mental health survey system
