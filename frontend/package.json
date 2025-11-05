@@ -4,6 +4,7 @@
   "private": true,
   "license": "MIT",
   "scripts": {
+    "analyze": "ANALYZE=true npm run build",
     "clean": "rimraf .next",
     "dev:mock": "npm run ishhrunning && npm run clean && npm run genabi && next dev --turbopack",
     "dev": "npm run clean && npm run genabi && next dev --turbopack",
