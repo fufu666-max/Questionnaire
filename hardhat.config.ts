@@ -1,3 +1,4 @@
+// Hardhat configuration for FHEVM Mental Health Survey project
 import "@fhevm/hardhat-plugin";
 import "@nomicfoundation/hardhat-chai-matchers";
 import "@nomicfoundation/hardhat-ethers";
