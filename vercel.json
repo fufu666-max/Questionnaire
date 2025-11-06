@@ -1,4 +1,5 @@
 {
+  // Vercel deployment configuration for FHEVM Mental Health Survey
   "rootDirectory": "frontend",
   "framework": "nextjs",
   "buildCommand": "npm run build",
