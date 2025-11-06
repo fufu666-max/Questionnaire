@@ -1,4 +1,5 @@
 {
+  // Next.js TypeScript configuration for FHEVM frontend
   "compilerOptions": {
     "target": "ES2017",
     "lib": ["dom", "dom.iterable", "esnext"],
